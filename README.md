@@ -28,6 +28,7 @@ Z80-Istizator puts a Z80 CPU through its paces:
 
 - **Custom PCB** (KiCad) — designed from scratch for this project
 - **Raspberry Pi Pico** — clock generation, reset control, test sequencing, result reporting
+- **Small color display** — driven by Pico, shows live test results, pass/fail status, and measured max frequency
 - **Z80 CPU socket** — accepts NMOS and CMOS Z80 variants
 
 ---
@@ -42,6 +43,7 @@ Z80-Istizator puts a Z80 CPU through its paces:
 - [ ] HALT detection
 - [ ] M1 / RFSH cycle verification
 - [ ] BUSRQ / BUSACK handshake test
+- [ ] Color display output (SPI TFT, e.g. ST7735 / ILI9341) — real-time results on-device
 - [ ] Serial/USB output of test results
 - [ ] Pass/fail summary with timing data
 
