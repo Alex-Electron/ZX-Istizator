@@ -1,0 +1,15 @@
+{
+  "board": {
+    "design_settings": {},
+    "ipc2581": {},
+    "layer_presets": []
+  },
+  "cvpcb": {
+    "equiv_step": 1
+  },
+  "general": {},
+  "netlist": {},
+  "pcbnew": {},
+  "schematic": {},
+  "system": {}
+}
