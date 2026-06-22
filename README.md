@@ -53,6 +53,13 @@ Puts the Z80 CPU through its paces at extreme speeds:
 
 ---
 
+## Credits & Acknowledgements
+
+This project was born out of deep passion for retro-computing. Special thanks to:
+
+* **Spectrum Forever** (a group of 7 dedicated ZX Spectrum enthusiasts) — the ideologists, architects, and developers behind expanding this project from a simple CPU tester into a universal ZX-chip testing combine.
+  * Active contributors include: **Alexander Lavrinovich ([@Alex-Electron](https://github.com/Alex-Electron))**, **Paul Leikam ([@pahan4](https://github.com/pahan4))**, **Alex ([@Alex-2-Graf](https://github.com/Alex-2-Graf))**, **Mefisto**, **Sergey Lackay**, **Oleg Dejanoff**, and **Sergey Potapov**.
+
 ## Status
 
 Early planning and schematic design stage. Hardware layout in KiCad in progress.
